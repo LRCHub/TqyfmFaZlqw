@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Gurenge",
+  "base_artist": "LiSA",
+  "createdAt": "2026-02-14T14:01:02.076107Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gurenge (From \"Demon Slayer: Kimetsu no Yaiba\")",
+      "artist": "Miura Jam",
+      "has_synced": true,
+      "path": "select/01_Gurenge_(From__Demon_Slayer__Kimetsu_no_Yaiba_)_Miura_Jam.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gurenge - Demon Slayer - Kimetsu No Yaiba",
+      "artist": "Ankor",
+      "has_synced": true,
+      "path": "select/02_Gurenge_-_Demon_Slayer_-_Kimetsu_No_Yaiba_Ankor.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gurenge (From \"Demon Slayer: Kimetsu no Yaiba\")",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/03_Gurenge_(From__Demon_Slayer__Kimetsu_no_Yaiba_)_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gurenge (Demon Slayer: Kimetsu no Yaiba Op)",
+      "artist": "Raon Lee",
+      "has_synced": true,
+      "path": "select/04_Gurenge_(Demon_Slayer__Kimetsu_no_Yaiba_Op)_Raon_Lee.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gurenge (From \"Demon Slayer\")",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/05_Gurenge_(From__Demon_Slayer_)_AmaLee.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gurenge (From \"Demon Slayer\")",
+      "artist": "NateWantsToBattle",
+      "has_synced": true,
+      "path": "select/06_Gurenge_(From__Demon_Slayer_)_NateWantsToBattle.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gurenge (From \"Demon Slayer\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/07_Gurenge_(From__Demon_Slayer_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gurenge (From \"Demon Slayer\") [REMIX]",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/08_Gurenge_(From__Demon_Slayer_)_[REMIX]_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gurenge",
+      "artist": "Blinding Sunrise",
+      "has_synced": true,
+      "path": "select/09_Gurenge_Blinding_Sunrise.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gurenge",
+      "artist": "Dj-Jo",
+      "has_synced": false,
+      "path": "select/10_Gurenge_Dj-Jo.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gurenge",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/11_Gurenge_Sati_Akura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "紅蓮華",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/pl_01_紅蓮華_LiSA.txt"
+    }
+  ]
+}
